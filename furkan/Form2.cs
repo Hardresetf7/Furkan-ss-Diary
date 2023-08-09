@@ -76,5 +76,4 @@ namespace furkan
 
     }
     }
-    // günlük oluşturma fonksiyonu tamam ancak ilerletmen gerekç
-    //for döngüsü ile sayıyı artırarak file adlarını değştir ve program her kaydetme sonrasında yeni bir txt oluştursun.}
+   
